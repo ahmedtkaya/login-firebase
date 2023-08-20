@@ -1,4 +1,9 @@
 node_modules
+.gitignore
+package-lock.json
+package.json
+README.md
+serviceAccountKey.json
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
@@ -143,8 +148,3 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
-
-README.md
-package.json
-package-lock.json
-serviceAccountKey.js
